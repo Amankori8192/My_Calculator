@@ -1,2 +1,2 @@
 # My_Calculator
-Calculate me...
+MY calcultor is a mini project with (HTML, CSS & JAVASCRIPT)
