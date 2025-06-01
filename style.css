@@ -21,7 +21,7 @@ body{
 
 .calculator {
     width: 100%;
-    min-height: 85vh;
+    min-height: 80vh;
     background: #ffffff;
     display: grid;
     grid-template-columns: repeat(4, 1fr);
